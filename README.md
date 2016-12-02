@@ -7,3 +7,4 @@ this project makes use of serial communication protocol, a detailed explanation 
 component for this project can be bought at http://techelemental.com/shop, with nationwide delivery.
 
 
+PS: To make this system complete, power should be provided to the arduino through an external power supply, not USB.
